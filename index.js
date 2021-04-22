@@ -48,7 +48,7 @@ module.exports = {
   InternalModels: RosettaInternalModels,
   logger: logger,
 
-  version: '1.4.1',
+  version: '1.4.10',
 
   SyncerEvents: RosettaSyncerEvents,
   Errors: RosettaErrors,
